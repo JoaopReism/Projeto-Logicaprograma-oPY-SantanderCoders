@@ -1,4 +1,4 @@
-# Projeto Logicaprogramação PYTHON - SantanderCoders
+# Projeto Logica de programação PYTHON - SantanderCoders
 Projeto do módulo de Lógica da programação com Python do curso Santander Coders.
 
 Proposta projeto:
